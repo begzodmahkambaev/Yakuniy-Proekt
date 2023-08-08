@@ -1,0 +1,341 @@
+body{
+    background-image: url("../img/back.jpg");
+    background-size: 1000px;
+}
+.t1{
+    color: red;
+    background-color: white;
+    width: 1903px;
+    height: 100px;
+    border: 6px double red;
+    border-left: none;
+    border-right: none;
+    text-align: center;
+    line-height: 85px;
+    font-family: Monospaced;
+}
+.navbar1{
+    background-color: white;
+    width: 1903px;
+    height: 100px;
+    position: relative;
+    margin-top: 20px;
+    border: 6px double red;
+    border-left: none;
+    border-right: none;
+}
+.navbar2{
+    text-align: center;
+}
+.img1{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 10px;
+    left: 30px;
+}
+.t5{
+    font-size: 30px;
+    position: absolute;
+    top: 0;
+    left: 110px;
+    text-align: center;
+    font-family: monospace;
+    font-weight: bolder;
+}
+.alt1{
+    margin-left: 780px;
+}
+#poisk{
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 240px;
+    height: 40px;
+    background-color: #f1f1f1;
+    position: absolute;
+    top: 25px;
+    right: 30px;
+}
+.t2{
+    font-size: 25px;
+    text-decoration: none;
+    color: black;
+    padding: 27px 20px;
+    font-weight: bold;
+    line-height: 89px;
+    transition: all 0.1s ease-in-out;
+}
+.t3{
+    font-size: 25px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    padding: 27px 20px;
+    transition: all 0.2s ease-in-out;
+}
+.t4{
+    font-size: 25px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    padding: 27px 20px;
+    transition: all 0.1s ease-in-out;
+}
+.t98{
+    font-size: 25px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    padding: 27px 20px;
+    transition: all 0.1s ease-in-out;
+}
+.t98:hover{
+    background-color: #f1f1f1;
+    width: 100px;
+    text-decoration: none;
+    height: 100px;
+    color: orangered;
+}
+.t2:hover{
+    background-color: #f1f1f1;
+    width: 100px;
+    text-decoration: none;
+    height: 100px;
+    color: orangered;
+}
+.t3:hover{
+    background-color: #f1f1f1;
+    width: 100px;
+    text-decoration: none;
+    height: 100px;
+    color: orangered;
+}
+.t4:hover{
+    background-color: #f1f1f1;
+    width: 100px;
+    text-decoration: none;
+    height: 100px;
+    color: orangered;
+}
+.all1{
+    margin: 40px;
+    margin-bottom: 650px;
+}
+.all2{
+    margin: 40px;
+}
+.all3{
+    margin: 40px;
+}
+.all4{
+    margin: 40px;
+}
+.img2{
+    width: 300px;
+    height: 300px;
+    border-radius: 30px 30px 0 0;
+}
+.img3{
+    width: 300px;
+    height: 300px;
+    border-radius: 30px 30px 0 0;
+}
+.img4{
+    width: 300px;
+    height: 300px;
+    border-radius: 30px 30px 0 0;
+}
+.img5{
+    width: 300px;
+    height: 300px;
+    border-radius: 30px 30px 0 0;
+}
+.card1{
+    width: 300px;
+    height: 500px;
+    background-color: white;
+    border-radius: 30px;
+    float: left;
+    margin-left: 160px;
+    margin-top: 60px;
+    transition: all 0.2s ease-in;
+}
+.card2{
+    width: 300px;
+    height: 500px;
+    background-color: white;
+    border-radius: 30px;
+    float: left;
+    margin-left: 100px;
+    margin-top: 60px;
+    transition: all 0.2s ease-in;
+}
+.card1:hover{
+    transform: translate(0, -30px);
+    box-shadow: 0 20px 30px greenyellow;
+}
+.card2:hover{
+    transform: translate(0, -30px);
+    box-shadow: 0 20px 30px greenyellow;
+}
+.button1{
+    width: 200px;
+    margin-left: 50px;
+    height: 40px;
+    background-color: limegreen;
+    color: white;
+    cursor: pointer;
+    text-align: center;
+    font-size: 20px;
+    line-height: 35px;
+    border-radius: 10px;
+    transition: all 0.2s ease-in;
+}
+.button1:hover{
+    box-shadow: 5px 5px 5px greenyellow;
+}
+.t6{
+    font-size: 25px;
+    margin-left: 20px;
+    font-weight: bold;
+}
+.t7{
+    font-size: 20px;
+    margin-top: -10px;
+    margin-left: 20px;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+.card6{
+    width: 300px;
+    height: 500px;
+    background-color: white;
+    border-radius: 30px;
+    float: left;
+    margin-left: 160px;
+    margin-top: 60px;
+    transition: all 0.2s ease-in;
+}
+.card7{
+    width: 300px;
+    height: 500px;
+    background-color: white;
+    border-radius: 30px;
+    float: left;
+    margin-left: 100px;
+    margin-top: 60px;
+    transition: all 0.2s ease-in;
+}
+.card6:hover{
+    transform: translate(0, -30px);
+    box-shadow: 0 20px 30px greenyellow;
+}
+.card7:hover{
+    transform: translate(0, -30px);
+    box-shadow: 0 20px 30px greenyellow;
+}
+.img6{
+    width: 300px;
+    height: 300px;
+    border-radius: 30px 30px 0 0;
+}
+.card4{
+    width: 300px;
+    height: 500px;
+    background-color: white;
+    border-radius: 30px;
+    float: left;
+    margin-left: 160px;
+    margin-top: 60px;
+    transition: all 0.2s ease-in;
+}
+.card5{
+    width: 300px;
+    height: 500px;
+    background-color: white;
+    border-radius: 30px;
+    float: left;
+    margin-left: 100px;
+    margin-top: 60px;
+    transition: all 0.2s ease-in;
+}
+.card4:hover{
+    transform: translate(0, -30px);
+    box-shadow: 0 20px 30px greenyellow;
+}
+.card5:hover{
+    transform: translate(0, -30px);
+    box-shadow: 0 20px 30px greenyellow;
+}
+.oh1{
+    background-color: white;
+    width: 1903px;
+    margin-top: 2450px;
+    height: 300px;
+    padding-top: 50px;
+    box-sizing: border-box;
+    position: relative;
+    text-align: center;
+}
+.img9{
+    width: 300px;
+    height: 300px;
+    float: left;
+    position: absolute;
+    top: 0;
+    left: 60px;
+}
+.t9{
+    font-size: 50px;
+}
+.img10{
+    width: 300px;
+    height: 300px;
+    float: left;
+    position: absolute;
+    top: 0;
+    right: 60px;
+}
+.t11{
+    color: rgba(68, 68, 68, 0.6);
+    margin-top: 140px;
+    margin-left: -500px;
+}
+.home1{
+    width: 80px;
+    height: 80px;
+    border: 5px double orangered;
+    background-color: deepskyblue;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 30px;
+    right: 60px;
+    font-size: 30px;
+    text-align: center;
+    transition: all 0.5s ease;
+}
+.t15{
+    font-size: 60px;
+    text-decoration: none;
+    color: white;
+    transition: all 0.2s ease-out;
+
+}
+.t15:hover{
+    text-decoration: none;
+    color: greenyellow;
+}
+.img99{
+    width: 180px;
+    height: 180px;
+    position: absolute;
+    top: 120px;
+    left: 1200px;
+}
+.t99{
+    font-family: monospace;
+    font-size: 40px;
+    position: absolute;
+    top: 230px;
+    left: 1010px;
+}
